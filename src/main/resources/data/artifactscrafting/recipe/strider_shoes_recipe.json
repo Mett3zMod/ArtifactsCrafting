@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:netherite_boots"
+    },
+    "c": {
+      "item": "minecraft:netherrack"
+    },
+    "d": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "id": "artifacts:strider_shoes",
+    "count": 1
+  }
+}
