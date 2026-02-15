@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "minecraft:emerald"
+    },
+    "c": {
+      "item": "minecraft:golden_apple"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "e": {
+      "item": "minecraft:golden_carrot"
+    }
+  },
+  "result": {
+    "id": "artifacts:crystal_heart",
+    "count": 1
+  }
+}

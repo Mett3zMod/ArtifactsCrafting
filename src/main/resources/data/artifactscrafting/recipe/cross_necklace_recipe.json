@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "c": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "artifacts:cross_necklace",
+    "count": 1
+  }
+}

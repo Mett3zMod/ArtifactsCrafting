@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "tag": "artifactscrafting:glass_pane"
+    },
+    "b": {
+      "item": "minecraft:leather_helmet"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "id": "artifacts:snorkel",
+    "count": 1
+  }
+}
