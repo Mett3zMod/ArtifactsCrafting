@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "afa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:diamond_shovel"
+    },
+    "c": {
+      "item": "minecraft:diamond_axe"
+    },
+    "d": {
+      "item": "minecraft:golden_carrot"
+    },
+    "e": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "f": {
+      "item": "minecraft:diamond_hoe"
+    }
+  },
+  "result": {
+    "item": "artifacts:onion_ring",
+    "count": 1
+  }
+}

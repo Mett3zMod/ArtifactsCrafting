@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cac"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "minecraft:leather_boots"
+    },
+    "c": {
+      "tag": "minecraft:fishes"
+    }
+  },
+  "result": {
+    "item": "artifacts:kitty_slippers",
+    "count": 1
+  }
+}

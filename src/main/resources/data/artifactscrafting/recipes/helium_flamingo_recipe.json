@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "bcb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    },
+    "b": {
+      "item": "minecraft:pink_wool"
+    },
+    "c": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "artifacts:helium_flamingo",
+    "count": 1
+  }
+}

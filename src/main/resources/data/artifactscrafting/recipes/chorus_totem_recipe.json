@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "b": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "result": {
+    "item": "artifacts:chorus_totem",
+    "count": 1
+  }
+}
