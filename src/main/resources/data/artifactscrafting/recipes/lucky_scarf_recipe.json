@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    "aba",
+    "aa "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_wool"
+    },
+    "b": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "artifacts:lucky_scarf",
+    "count": 1
+  }
+}

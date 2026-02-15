@@ -13,7 +13,7 @@
       "item": "minecraft:leather_boots"
     },
     "c": {
-      "tag": "artifactscrafting:fish"
+      "item": "minecraft:cod"
     }
   },
   "result": {

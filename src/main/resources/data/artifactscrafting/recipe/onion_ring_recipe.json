@@ -3,7 +3,7 @@
   "category": "misc",
   "pattern": [
     "aba",
-    "cde",
+    "dce",
     "afa"
   ],
   "key": {
@@ -11,16 +11,16 @@
       "item": "minecraft:iron_ingot"
     },
     "b": {
-      "item": "minecraft:diamond_shovel"
+      "item": "minecraft:diamond_pickaxe"
     },
     "c": {
-      "item": "minecraft:diamond_axe"
+      "tag": "c:foods"
     },
     "d": {
-      "tag": "artifactscrafting:food"
+      "item": "minecraft:diamond_axe"
     },
     "e": {
-      "item": "minecraft:diamond_pickaxe"
+      "item": "minecraft:diamond_shovel"
     },
     "f": {
       "item": "minecraft:diamond_hoe"

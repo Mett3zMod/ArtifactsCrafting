@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald"
+    },
+    "b": {
+      "item": "minecraft:lime_wool"
+    },
+    "c": {
+      "item": "minecraft:leather_helmet"
+    }
+  },
+  "result": {
+    "item": "artifacts:superstitious_hat",
+    "count": 1
+  }
+}

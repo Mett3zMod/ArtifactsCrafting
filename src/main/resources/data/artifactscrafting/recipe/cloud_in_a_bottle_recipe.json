@@ -11,7 +11,7 @@
       "tag": "minecraft:wooden_slabs"
     },
     "b": {
-      "tag": "artifactscrafting:glass_pane"
+      "tag": "c:glass_panes"
     },
     "c": {
       "item": "minecraft:feather"

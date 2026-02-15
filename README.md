@@ -1,4 +1,4 @@
-<p align="center"><img src="src/main/resources/logo.png" alt="Logo" width="200"></p>
+<p align="center"><img src="src/main/resources/assets/artifactscrafting/icon.png" alt="Logo" width="200"></p>
 <h1 align="center">Artifacts Crafting  <br>
     <br><br>
 </h1>

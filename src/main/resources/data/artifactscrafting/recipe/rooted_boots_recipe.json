@@ -3,7 +3,7 @@
   "category": "misc",
   "pattern": [
     "aba",
-    "cac"
+    "aaa"
   ],
   "key": {
     "a": {
@@ -11,9 +11,6 @@
     },
     "b": {
       "item": "minecraft:leather_boots"
-    },
-    "c": {
-      "tag": "artifactscrafting:food"
     }
   },
   "result": {

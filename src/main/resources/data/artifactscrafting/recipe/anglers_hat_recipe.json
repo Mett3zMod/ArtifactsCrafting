@@ -1,11 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "pattern": [
-    " a ",
-    "bcd",
-    "aaa"
-  ],
   "key": {
     "a": {
       "item": "minecraft:string"
@@ -17,11 +12,16 @@
       "item": "minecraft:fishing_rod"
     },
     "d": {
-      "tag": "artifactscrafting:fish"
+      "item": "minecraft:cod"
     }
   },
+  "pattern": [
+    " a ",
+    "bcd",
+    "aaa"
+  ],
   "result": {
-    "id": "artifacts:anglers_hat",
-    "count": 1
+    "count": 1,
+    "id": "artifacts:anglers_hat"
   }
 }
