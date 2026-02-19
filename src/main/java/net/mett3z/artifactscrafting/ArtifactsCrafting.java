@@ -30,7 +30,6 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-// The value here should match an entry in the META-INF/neoforge.mods.toml file
 @Mod(ArtifactsCrafting.MOD_ID)
 public class ArtifactsCrafting {
     public static final String MOD_ID = "artifactscrafting";
@@ -56,7 +55,6 @@ public class ArtifactsCrafting {
 
     }
 
-    // You can use SubscribeEvent and let the Event Bus discover methods to call
     @SubscribeEvent
     public void onServerStarting(ServerStartingEvent event) {
 

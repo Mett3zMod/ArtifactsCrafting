@@ -10,7 +10,6 @@ import net.neoforged.fml.event.lifecycle.FMLClientSetupEvent;
 import net.neoforged.neoforge.client.gui.ConfigurationScreen;
 import net.neoforged.neoforge.client.gui.IConfigScreenFactory;
 
-// This class will not load on dedicated servers. Accessing client side code from here is safe.
 @Mod(value = ArtifactsCrafting.MOD_ID, dist = Dist.CLIENT)
 
 @EventBusSubscriber(modid = ArtifactsCrafting.MOD_ID, value = Dist.CLIENT)
