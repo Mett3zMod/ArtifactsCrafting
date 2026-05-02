@@ -3,17 +3,17 @@
   "category": "misc",
   "pattern": [
     " a ",
-    "bcd",
-    "aaa"
+    "aba",
+    "cdc"
   ],
   "key": {
     "a": "minecraft:string",
-    "b": "minecraft:pufferfish",
-    "c": "minecraft:fishing_rod",
-    "d": "#artifactscrafting:fish"
+    "b": "minecraft:diamond",
+    "c": "minecraft:gold_nugget",
+    "d": "minecraft:gold_ingot"
   },
   "result": {
-    "id": "artifacts:anglers_hat",
+    "id": "artifacts:shock_pendant",
     "count": 1
   }
 }

@@ -2,16 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "aaa",
     "aba",
-    "aaa"
+    "bcb",
+    "aba"
   ],
   "key": {
-    "a": "minecraft:netherite_scrap",
-    "b": "minecraft:beef"
+    "a": "minecraft:leather",
+    "b": "minecraft:ender_pearl",
+    "c": "#c:foods"
   },
   "result": {
-    "id": "artifacts:everlasting_beef",
+    "id": "artifacts:warp_drive",
     "count": 1
   }
 }

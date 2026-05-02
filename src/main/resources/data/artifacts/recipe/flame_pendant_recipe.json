@@ -2,16 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
+    " a ",
     "aba",
-    "cac"
+    " c "
   ],
   "key": {
     "a": "minecraft:string",
-    "b": "minecraft:leather_boots",
-    "c": "#artifactscrafting:fish"
+    "b": "minecraft:magma_block",
+    "c": "minecraft:magma_cream"
   },
   "result": {
-    "id": "artifacts:kitty_slippers",
+    "id": "artifacts:flame_pendant",
     "count": 1
   }
 }

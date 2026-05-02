@@ -8,7 +8,7 @@
   ],
   "key": {
     "a": "#minecraft:wooden_slabs",
-    "b": "#artifactscrafting:glass_pane",
+    "b": "#c:glass_panes",
     "c": "minecraft:feather"
   },
   "result": {
