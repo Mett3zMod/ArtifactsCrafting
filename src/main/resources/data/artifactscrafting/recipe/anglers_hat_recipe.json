@@ -10,7 +10,7 @@
     "a": "minecraft:string",
     "b": "minecraft:pufferfish",
     "c": "minecraft:fishing_rod",
-    "d": "#artifactscrafting:fish"
+    "d": "#minecraft:fishes"
   },
   "result": {
     "id": "artifacts:anglers_hat",
