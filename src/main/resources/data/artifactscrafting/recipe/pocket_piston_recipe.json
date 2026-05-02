@@ -6,18 +6,10 @@
     "cdc"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:piston"
-    },
-    "c": {
-      "item": "minecraft:redstone"
-    },
-    "d": {
-      "item": "minecraft:leather"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:piston",
+    "c": "minecraft:redstone",
+    "d": "minecraft:leather"
   },
   "result": {
     "id": "artifacts:pocket_piston",

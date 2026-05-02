@@ -7,18 +7,10 @@
     " d "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:gold_ingot"
-    },
-    "b": {
-      "item": "minecraft:gold_block"
-    },
-    "c": {
-      "item": "minecraft:polished_blackstone"
-    },
-    "d": {
-      "item": "minecraft:leather"
-    }
+    "a": "minecraft:gold_ingot",
+    "b": "minecraft:gold_block",
+    "c": "minecraft:polished_blackstone",
+    "d": "minecraft:leather"
   },
   "result": {
     "id": "artifacts:power_glove",

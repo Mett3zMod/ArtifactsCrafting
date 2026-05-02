@@ -7,15 +7,9 @@
     " c "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:leather"
-    },
-    "b": {
-      "item": "minecraft:leather_helmet"
-    },
-    "c": {
-      "item": "minecraft:saddle"
-    }
+    "a": "minecraft:leather",
+    "b": "minecraft:leather_helmet",
+    "c": "minecraft:saddle"
   },
   "result": {
     "id": "artifacts:cowboy_hat",

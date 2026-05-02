@@ -7,18 +7,10 @@
     "cdc"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:golden_carrot"
-    },
-    "c": {
-      "item": "minecraft:redstone"
-    },
-    "d": {
-      "item": "minecraft:golden_apple"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:golden_carrot",
+    "c": "minecraft:redstone",
+    "d": "minecraft:golden_apple"
   },
   "result": {
     "id": "artifacts:panic_necklace",

@@ -7,15 +7,9 @@
     " c "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:cactus"
-    },
-    "c": {
-      "item": "minecraft:iron_nugget"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:cactus",
+    "c": "minecraft:iron_nugget"
   },
   "result": {
     "id": "artifacts:thorn_pendant",

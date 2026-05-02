@@ -7,18 +7,10 @@
     "cdc"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:diamond"
-    },
-    "c": {
-      "item": "minecraft:gold_nugget"
-    },
-    "d": {
-      "item": "minecraft:gold_ingot"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:diamond",
+    "c": "minecraft:gold_nugget",
+    "d": "minecraft:gold_ingot"
   },
   "result": {
     "id": "artifacts:shock_pendant",

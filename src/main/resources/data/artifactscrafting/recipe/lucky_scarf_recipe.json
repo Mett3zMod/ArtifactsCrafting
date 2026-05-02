@@ -7,12 +7,8 @@
     "aa "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:lime_wool"
-    },
-    "b": {
-      "item": "minecraft:emerald_block"
-    }
+    "a": "minecraft:lime_wool",
+    "b": "minecraft:emerald_block"
   },
   "result": {
     "id": "artifacts:lucky_scarf",

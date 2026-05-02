@@ -7,12 +7,8 @@
     "b b"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:redstone_block"
-    },
-    "b": {
-      "item": "minecraft:gold_block"
-    }
+    "a": "minecraft:redstone_block",
+    "b": "minecraft:gold_block"
   },
   "result": {
     "id": "artifacts:universal_attractor",

@@ -7,12 +7,8 @@
     "aa "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:cyan_wool"
-    },
-    "b": {
-      "item": "minecraft:diamond_block"
-    }
+    "a": "minecraft:cyan_wool",
+    "b": "minecraft:diamond_block"
   },
   "result": {
     "id": "artifacts:scarf_of_invisibility",

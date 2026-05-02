@@ -7,18 +7,10 @@
     "ddd"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:water_bucket"
-    },
-    "b": {
-      "item": "minecraft:string"
-    },
-    "c": {
-      "item": "minecraft:leather_helmet"
-    },
-    "d": {
-      "item": "minecraft:orange_wool"
-    }
+    "a": "minecraft:water_bucket",
+    "b": "minecraft:string",
+    "c": "minecraft:leather_helmet",
+    "d": "minecraft:orange_wool"
   },
   "result": {
     "id": "artifacts:plastic_drinking_hat",

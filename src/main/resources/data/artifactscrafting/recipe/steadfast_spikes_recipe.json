@@ -6,15 +6,9 @@
     "ccc"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:iron_block"
-    },
-    "b": {
-      "item": "minecraft:leather_boots"
-    },
-    "c": {
-      "item": "minecraft:iron_nugget"
-    }
+    "a": "minecraft:iron_block",
+    "b": "minecraft:leather_boots",
+    "c": "minecraft:iron_nugget"
   },
   "result": {
     "id": "artifacts:steadfast_spikes",

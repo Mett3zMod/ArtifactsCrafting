@@ -7,18 +7,10 @@
     "ddd"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:feather"
-    },
-    "b": {
-      "item": "minecraft:lapis_lazuli"
-    },
-    "c": {
-      "item": "minecraft:leather_boots"
-    },
-    "d": {
-      "item": "minecraft:leather"
-    }
+    "a": "minecraft:feather",
+    "b": "minecraft:lapis_lazuli",
+    "c": "minecraft:leather_boots",
+    "d": "minecraft:leather"
   },
   "result": {
     "id": "artifacts:aqua_dashers",

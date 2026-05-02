@@ -6,15 +6,9 @@
     "bcb"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:emerald"
-    },
-    "b": {
-      "item": "minecraft:lime_wool"
-    },
-    "c": {
-      "item": "minecraft:leather_helmet"
-    }
+    "a": "minecraft:emerald",
+    "b": "minecraft:lime_wool",
+    "c": "minecraft:leather_helmet"
   },
   "result": {
     "id": "artifacts:superstitious_hat",

@@ -7,15 +7,9 @@
     "bbb"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:black_dye"
-    },
-    "b": {
-      "item": "minecraft:pink_wool"
-    },
-    "c": {
-      "item": "minecraft:dragon_breath"
-    }
+    "a": "minecraft:black_dye",
+    "b": "minecraft:pink_wool",
+    "c": "minecraft:dragon_breath"
   },
   "result": {
     "id": "artifacts:helium_flamingo",

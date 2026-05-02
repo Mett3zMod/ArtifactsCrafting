@@ -6,12 +6,8 @@
     " a "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:leather"
-    },
-    "b": {
-      "item": "minecraft:redstone_block"
-    }
+    "a": "minecraft:leather",
+    "b": "minecraft:redstone_block"
   },
   "result": {
     "id": "artifacts:vampiric_glove",

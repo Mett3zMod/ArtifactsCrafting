@@ -7,15 +7,9 @@
     "aca"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:iron_nugget"
-    },
-    "b": {
-      "item": "minecraft:string"
-    },
-    "c": {
-      "item": "minecraft:obsidian"
-    }
+    "a": "minecraft:iron_nugget",
+    "b": "minecraft:string",
+    "c": "minecraft:obsidian"
   },
   "result": {
     "id": "artifacts:charm_of_shrinking",

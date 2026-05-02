@@ -7,12 +7,8 @@
     " a "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:chorus_fruit"
-    },
-    "b": {
-      "item": "minecraft:totem_of_undying"
-    }
+    "a": "minecraft:chorus_fruit",
+    "b": "minecraft:totem_of_undying"
   },
   "result": {
     "id": "artifacts:chorus_totem",

@@ -7,21 +7,11 @@
     "ded"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:water_bucket"
-    },
-    "b": {
-      "item": "minecraft:string"
-    },
-    "c": {
-      "item": "artifacts:plastic_drinking_hat"
-    },
-    "d": {
-      "item": "minecraft:white_wool"
-    },
-    "e": {
-      "item": "minecraft:red_wool"
-    }
+    "a": "minecraft:water_bucket",
+    "b": "minecraft:string",
+    "c": "artifacts:plastic_drinking_hat",
+    "d": "minecraft:white_wool",
+    "e": "minecraft:red_wool"
   },
   "result": {
     "id": "artifacts:novelty_drinking_hat",

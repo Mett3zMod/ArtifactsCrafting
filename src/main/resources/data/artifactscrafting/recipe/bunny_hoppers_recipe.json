@@ -6,15 +6,9 @@
     "ccc"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:rabbit_foot"
-    },
-    "b": {
-      "item": "minecraft:leather_boots"
-    },
-    "c": {
-      "item": "minecraft:rabbit_hide"
-    }
+    "a": "minecraft:rabbit_foot",
+    "b": "minecraft:leather_boots",
+    "c": "minecraft:rabbit_hide"
   },
   "result": {
     "id": "artifacts:bunny_hoppers",

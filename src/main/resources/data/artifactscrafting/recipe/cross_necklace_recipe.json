@@ -7,15 +7,9 @@
     " c "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:totem_of_undying"
-    },
-    "c": {
-      "item": "minecraft:gold_ingot"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:totem_of_undying",
+    "c": "minecraft:gold_ingot"
   },
   "result": {
     "id": "artifacts:cross_necklace",

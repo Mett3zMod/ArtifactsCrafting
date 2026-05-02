@@ -7,15 +7,9 @@
     "aba"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:leather"
-    },
-    "b": {
-      "item": "minecraft:ender_pearl"
-    },
-    "c": {
-      "tag": "artifactscrafting:food"
-    }
+    "a": "minecraft:leather",
+    "b": "minecraft:ender_pearl",
+    "c": "#artifactscrafting:food"
   },
   "result": {
     "id": "artifacts:warp_drive",

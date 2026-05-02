@@ -7,15 +7,9 @@
     "bbb"
   ],
   "key": {
-    "a": {
-      "tag": "minecraft:wooden_slabs"
-    },
-    "b": {
-      "tag": "artifactscrafting:glass_pane"
-    },
-    "c": {
-      "item": "minecraft:feather"
-    }
+    "a": "#minecraft:wooden_slabs",
+    "b": "#artifactscrafting:glass_pane",
+    "c": "minecraft:feather"
   },
   "result": {
     "id": "artifacts:cloud_in_a_bottle",

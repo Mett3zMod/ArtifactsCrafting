@@ -4,18 +4,13 @@
   "pattern": [
     " a ",
     "aba",
-    " c "
+    "dcd"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:magma_block"
-    },
-    "c": {
-      "item": "minecraft:magma_cream"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:magma_block",
+    "c": "minecraft:magma_cream",
+    "d": "minecraft:lava_bucket"
   },
   "result": {
     "id": "artifacts:flame_pendant",

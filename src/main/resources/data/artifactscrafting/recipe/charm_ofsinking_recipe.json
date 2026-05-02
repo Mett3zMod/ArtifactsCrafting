@@ -7,15 +7,9 @@
     " c "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:iron_block"
-    },
-    "c": {
-      "item": "minecraft:lapis_lazuli"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:iron_block",
+    "c": "minecraft:lapis_lazuli"
   },
   "result": {
     "id": "artifacts:charm_of_sinking",

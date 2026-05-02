@@ -6,15 +6,9 @@
     "ccc"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:red_wool"
-    },
-    "b": {
-      "item": "minecraft:leather_boots"
-    },
-    "c": {
-      "item": "minecraft:white_wool"
-    }
+    "a": "minecraft:red_wool",
+    "b": "minecraft:leather_boots",
+    "c": "minecraft:white_wool"
   },
   "result": {
     "id": "artifacts:running_shoes",

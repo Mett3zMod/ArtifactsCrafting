@@ -6,18 +6,10 @@
     "cdc"
   ],
   "key": {
-    "a": {
-      "tag": "artifactscrafting:glass_pane"
-    },
-    "b": {
-      "item": "minecraft:leather_helmet"
-    },
-    "c": {
-      "item": "minecraft:iron_ingot"
-    },
-    "d": {
-      "item": "minecraft:water_bucket"
-    }
+    "a": "#artifactscrafting:glass_pane",
+    "b": "minecraft:leather_helmet",
+    "c": "minecraft:iron_ingot",
+    "d":  "minecraft:water_bucket"
   },
   "result": {
     "id": "artifacts:snorkel",

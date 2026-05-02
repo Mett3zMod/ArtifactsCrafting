@@ -7,18 +7,10 @@
     "aaa"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:string"
-    },
-    "b": {
-      "item": "minecraft:pufferfish"
-    },
-    "c": {
-      "item": "minecraft:fishing_rod"
-    },
-    "d": {
-      "tag": "artifactscrafting:fish"
-    }
+    "a": "minecraft:string",
+    "b": "minecraft:pufferfish",
+    "c": "minecraft:fishing_rod",
+    "d": "#artifactscrafting:fish"
   },
   "result": {
     "id": "artifacts:anglers_hat",

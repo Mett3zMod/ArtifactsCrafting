@@ -7,12 +7,8 @@
     " a "
   ],
   "key": {
-    "a": {
-      "item": "minecraft:pink_wool"
-    },
-    "b": {
-      "item": "minecraft:leather"
-    }
+    "a": "minecraft:pink_wool",
+    "b": "minecraft:leather"
   },
   "result": {
     "id": "artifacts:whoopee_cushion",

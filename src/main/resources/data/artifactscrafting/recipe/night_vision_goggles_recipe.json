@@ -2,20 +2,15 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "aaa",
+    "ada",
     "bcb",
-    "aaa"
+    "ada"
   ],
   "key": {
-    "a": {
-      "item": "minecraft:lapis_lazuli"
-    },
-    "b": {
-      "item": "minecraft:lime_stained_glass"
-    },
-    "c": {
-      "item": "minecraft:iron_ingot"
-    }
+    "a": "minecraft:lapis_lazuli",
+    "b": "minecraft:lime_stained_glass",
+    "c": "minecraft:iron_ingot",
+    "d": "minecraft:diamond"
   },
   "result": {
     "id": "artifacts:night_vision_goggles",
