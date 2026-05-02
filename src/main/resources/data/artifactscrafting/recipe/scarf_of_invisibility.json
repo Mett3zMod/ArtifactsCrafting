@@ -2,16 +2,16 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
+    " aa",
     "aba",
-    "cac"
+    "aa "
   ],
   "key": {
-    "a": "minecraft:string",
-    "b": "minecraft:leather_boots",
-    "c": "minecraft:cod"
+    "a": "minecraft:cyan_wool",
+    "b": "minecraft:diamond_block"
   },
   "result": {
-    "id": "artifacts:kitty_slippers",
+    "id": "artifacts:scarf_of_invisibility",
     "count": 1
   }
 }

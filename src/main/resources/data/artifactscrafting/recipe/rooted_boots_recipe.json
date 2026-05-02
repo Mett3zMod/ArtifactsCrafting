@@ -3,11 +3,12 @@
   "category": "misc",
   "pattern": [
     "aba",
-    "aaa"
+    "cac"
   ],
   "key": {
     "a": "minecraft:moss_block",
-    "b": "minecraft:leather_boots"
+    "b": "minecraft:leather_boots",
+    "c": "#artifactscrafting:food"
   },
   "result": {
     "id": "artifacts:rooted_boots",
