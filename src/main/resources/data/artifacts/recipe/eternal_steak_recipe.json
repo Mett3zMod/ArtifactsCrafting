@@ -8,7 +8,7 @@
   ],
   "key": {
     "a": "minecraft:gold_block",
-    "b": "minecraft:cooked_beef"
+    "b": "artifacts:everlasting_beef"
   },
   "result": {
     "id": "artifacts:eternal_steak",

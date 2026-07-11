@@ -3,7 +3,7 @@
 	"id": "artifactscrafting",
 	"version": "${version}",
 	"name": "Artifacts Crafting",
-	"description": "Implements crafting recipes for Artifacts mod",
+	"description": "Implements crafting recipes for Artifacts mod, RPG version",
 	"authors": [
 		"Mett3z"
 	],

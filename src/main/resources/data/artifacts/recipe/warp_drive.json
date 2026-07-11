@@ -9,7 +9,7 @@
   "key": {
     "a": "minecraft:leather",
     "b": "minecraft:ender_pearl",
-    "c": "#artifactscrafting:food"
+    "c": "#c:foods"
   },
   "result": {
     "id": "artifacts:warp_drive",

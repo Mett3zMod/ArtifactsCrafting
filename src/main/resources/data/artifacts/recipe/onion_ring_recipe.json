@@ -9,7 +9,7 @@
   "key": {
     "a": "minecraft:iron_ingot",
     "b": "minecraft:diamond_pickaxe",
-    "c": "#artifactscrafting:food",
+    "c": "#c:foods",
     "d": "minecraft:diamond_axe",
     "e": "minecraft:diamond_shovel",
     "f": "minecraft:diamond_hoe"

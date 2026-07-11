@@ -4,12 +4,13 @@
   "pattern": [
     " a ",
     "bcb",
-    " b "
+    "dbd"
   ],
   "key": {
     "a": "minecraft:iron_ingot",
     "b": "minecraft:magma_cream",
-    "c": "minecraft:iron_block"
+    "c": "minecraft:iron_block",
+    "d": "minecraft:lava_bucket"
   },
   "result": {
     "id": "artifacts:fire_gauntlet",

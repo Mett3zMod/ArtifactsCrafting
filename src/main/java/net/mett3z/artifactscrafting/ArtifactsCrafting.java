@@ -5,8 +5,6 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import net.mett3z.artifactscrafting.util.ModTags;
-
 public class ArtifactsCrafting implements ModInitializer {
 	public static final String MOD_ID = "artifactscrafting";
 

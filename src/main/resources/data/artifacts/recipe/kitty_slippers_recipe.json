@@ -8,7 +8,7 @@
   "key": {
     "a": "minecraft:string",
     "b": "minecraft:leather_boots",
-    "c": "#artifactscrafting:fish"
+    "c": "minecraft:cod"
   },
   "result": {
     "id": "artifacts:kitty_slippers",
