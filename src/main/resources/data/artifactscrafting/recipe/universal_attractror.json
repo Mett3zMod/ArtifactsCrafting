@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "b b"
+  ],
+  "key": {
+    "a": "minecraft:redstone_block",
+    "b": "minecraft:gold_block"
+  },
+  "result": {
+    "id": "artifacts:universal_attractor",
+    "count": 1
+  }
+}

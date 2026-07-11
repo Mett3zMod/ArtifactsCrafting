@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:iron_nugget",
+    "b": "minecraft:wither_rose",
+    "c": "minecraft:diamond_sword"
+  },
+  "result": {
+    "id": "artifacts:withered_bracelet",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:hay_block",
+    "b": "minecraft:leather_helmet"
+  },
+  "result": {
+    "id": "artifacts:villager_hat",
+    "count": 1
+  }
+}

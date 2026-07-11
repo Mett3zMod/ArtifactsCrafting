@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:brick",
+    "b": "minecraft:flower_pot",
+    "c": "minecraft:golden_carrot",
+    "d": "minecraft:golden_apple"
+  },
+  "result": {
+    "id": "artifacts:antidote_vessel",
+    "count": 1
+  }
+}

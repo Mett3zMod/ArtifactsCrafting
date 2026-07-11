@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ded"
+  ],
+  "key": {
+    "a": "minecraft:water_bucket",
+    "b": "minecraft:string",
+    "c": "artifacts:plastic_drinking_hat",
+    "d": "minecraft:white_wool",
+    "e": "minecraft:red_wool"
+  },
+  "result": {
+    "id": "artifacts:novelty_drinking_hat",
+    "count": 1
+  }
+}

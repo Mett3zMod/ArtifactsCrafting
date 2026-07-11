@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:red_wool",
+    "b": "minecraft:leather_boots",
+    "c": "minecraft:white_wool"
+  },
+  "result": {
+    "id": "artifacts:running_shoes",
+    "count": 1
+  }
+}
