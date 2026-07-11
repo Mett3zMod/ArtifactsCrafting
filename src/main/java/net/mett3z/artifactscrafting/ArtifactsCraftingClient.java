@@ -11,7 +11,6 @@ import net.neoforged.neoforge.client.gui.ConfigurationScreen;
 import net.neoforged.neoforge.client.gui.IConfigScreenFactory;
 
 @Mod(value = ArtifactsCrafting.MOD_ID, dist = Dist.CLIENT)
-
 @EventBusSubscriber(modid = ArtifactsCrafting.MOD_ID, value = Dist.CLIENT)
 public class ArtifactsCraftingClient {
     public ArtifactsCraftingClient(ModContainer container) {
@@ -20,6 +19,7 @@ public class ArtifactsCraftingClient {
 
     @SubscribeEvent
     static void onClientSetup(FMLClientSetupEvent event) {
-
+        ArtifactsCrafting.LOGGER.info("HELLO FROM CLIENT SETUP");
+        ArtifactsCrafting.LOGGER.info("MINECRAFT NAME >> {}", Minecraft.getInstance().getUser().getName());
     }
 }

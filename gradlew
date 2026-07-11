@@ -8,15 +8,14 @@ while
 do
     ls=$( ls -ld "$app_path" )
     link=${ls#*' -> '}
-    case $link in             #(
-      /*)   app_path=$link ;; #(
+    case $link in
+      /*)   app_path=$link ;;
       *)    app_path=$APP_HOME$link ;;
     esac
 done
 
 APP_BASE_NAME=${0##*/}
 APP_HOME=$( cd -P "${APP_HOME:-./}" > /dev/null && printf '%s\n' "$PWD" ) || exit
-
 
 MAX_FD=maximum
 
@@ -31,25 +30,22 @@ die () {
     exit 1
 } >&2
 
-
 cygwin=false
 msys=false
 darwin=false
 nonstop=false
-case "$( uname )" in                #(
-  CYGWIN* )         cygwin=true  ;; #(
-  Darwin* )         darwin=true  ;; #(
-  MSYS* | MINGW* )  msys=true    ;; #(
+case "$( uname )" in
+  CYGWIN* )         cygwin=true  ;;
+  Darwin* )         darwin=true  ;;
+  MSYS* | MINGW* )  msys=true    ;;
   NONSTOP* )        nonstop=true ;;
 esac
 
 CLASSPATH="\\\"\\\""
 
 
-
 if [ -n "$JAVA_HOME" ] ; then
     if [ -x "$JAVA_HOME/jre/sh/java" ] ; then
-
         JAVACMD=$JAVA_HOME/jre/sh/java
     else
         JAVACMD=$JAVA_HOME/bin/java
@@ -74,14 +70,12 @@ fi
 if ! "$cygwin" && ! "$darwin" && ! "$nonstop" ; then
     case $MAX_FD in #(
       max*)
-
         MAX_FD=$( ulimit -H -n ) ||
             warn "Could not query maximum file descriptor limit"
     esac
     case $MAX_FD in  #(
       '' | soft) :;; #(
       *)
-
         ulimit -n "$MAX_FD" ||
             warn "Could not set maximum file descriptor limit to $MAX_FD"
     esac
@@ -95,18 +89,17 @@ if "$cygwin" || "$msys" ; then
 
     for arg do
         if
-            case $arg in                                #(
-              -*)   false ;;                            # don't mess with options #(
-              /?*)  t=${arg#/} t=/${t%%/*}              # looks like a POSIX filepath
-                    [ -e "$t" ] ;;                      #(
+            case $arg in
+              -*)   false ;;
+              /?*)  t=${arg#/} t=/${t%%/*}
+                    [ -e "$t" ] ;;
               *)    false ;;
             esac
         then
             arg=$( cygpath --path --ignore --mixed "$arg" )
         fi
-
-        shift                   # remove old arg
-        set -- "$@" "$arg"      # push replacement arg
+        shift
+        set -- "$@" "$arg"
     done
 fi
 
@@ -119,11 +112,11 @@ set -- \
         -jar "$APP_HOME/gradle/wrapper/gradle-wrapper.jar" \
         "$@"
 
-# Stop when "xargs" is not available.
 if ! command -v xargs >/dev/null 2>&1
 then
     die "xargs is not available"
 fi
+
 
 eval "set -- $(
         printf '%s\n' "$DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS" |

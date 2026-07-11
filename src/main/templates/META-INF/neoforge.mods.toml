@@ -1,7 +1,3 @@
-modLoader="javafml"
-
-loaderVersion="${loader_version_range}"
-
 license="${mod_license}"
 
 [[mods]]
@@ -10,16 +6,14 @@ modId="${mod_id}"
 
 version="${mod_version}"
 
+
 displayName="${mod_name}"
 
 authors="Mett3z"
 
 description='''
-Implements crafting recipes for Artifacts mod, RPG version
+Implements crafting recipes for Artifacts mod
 '''
-
-logoFile= "logo.png"
-
 
 [[dependencies.${mod_id}]]
     modId="neoforge"
@@ -36,8 +30,9 @@ logoFile= "logo.png"
     side="BOTH"
 
 [[dependencies.${mod_id}]]
-    modId="artifacts"
-    type="required"
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
+modId="artifacts"
+type="required"
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+
