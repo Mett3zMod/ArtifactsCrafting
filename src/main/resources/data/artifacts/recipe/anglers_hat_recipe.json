@@ -1,19 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
-  "pattern": [
-    " a ",
-    "bcd",
-    "aaa"
-  ],
   "key": {
     "a": "minecraft:string",
     "b": "minecraft:pufferfish",
     "c": "minecraft:fishing_rod",
     "d": "#artifactscrafting:fish"
   },
+  "pattern": [
+    " a ",
+    "bcd",
+    "aaa"
+  ],
   "result": {
-    "id": "artifacts:anglers_hat",
-    "count": 1
+    "count": 1,
+    "id": "artifacts:anglers_hat"
   }
 }

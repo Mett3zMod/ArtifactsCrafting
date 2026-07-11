@@ -1,6 +1,8 @@
 #!/bin/sh
 
+
 app_path=$0
+
 
 while
     APP_HOME=${app_path%"${app_path##*/}"}
@@ -8,8 +10,8 @@ while
 do
     ls=$( ls -ld "$app_path" )
     link=${ls#*' -> '}
-    case $link in
-      /*)   app_path=$link ;;
+    case $link in             #(
+      /*)   app_path=$link ;; #(
       *)    app_path=$APP_HOME$link ;;
     esac
 done
@@ -41,7 +43,6 @@ case "$( uname )" in
   NONSTOP* )        nonstop=true ;;
 esac
 
-CLASSPATH="\\\"\\\""
 
 
 if [ -n "$JAVA_HOME" ] ; then
@@ -83,7 +84,6 @@ fi
 
 if "$cygwin" || "$msys" ; then
     APP_HOME=$( cygpath --path --mixed "$APP_HOME" )
-    CLASSPATH=$( cygpath --path --mixed "$CLASSPATH" )
 
     JAVACMD=$( cygpath --unix "$JAVACMD" )
 
@@ -108,7 +108,6 @@ DEFAULT_JVM_OPTS='"-Xmx64m" "-Xms64m"'
 
 set -- \
         "-Dorg.gradle.appname=$APP_BASE_NAME" \
-        -classpath "$CLASSPATH" \
         -jar "$APP_HOME/gradle/wrapper/gradle-wrapper.jar" \
         "$@"
 

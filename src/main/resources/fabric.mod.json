@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "artifactscrafting",
+	"version": "${version}",
+	"name": "Artifacts Crafting",
+	"description": "Implements crafting recipes for Artifacts mod",
+	"authors": [
+		"Mett3z"
+	],
+	"license": "All Rights Reserved",
+	"icon": "assets/artifactscrafting/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mett3z.artifactscrafting.ArtifactsCrafting"
+		],
+		"client": [
+			"net.mett3z.artifactscrafting.client.ArtifactsCraftingClient"
+		],
+		"fabric-datagen": [
+			"net.mett3z.artifactscrafting.client.ArtifactsCraftingDataGenerator"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*",
+		"artifacts": ">=0"
+	}
+}
