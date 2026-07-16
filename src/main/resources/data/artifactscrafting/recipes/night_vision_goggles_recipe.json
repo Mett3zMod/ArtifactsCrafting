@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "pattern": [
-    "aaa",
+    "ada",
     "bcb",
-    "aaa"
+    "ada"
   ],
   "key": {
     "a": {
@@ -15,6 +15,9 @@
     },
     "c": {
       "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:diamond"
     }
   },
   "result": {

@@ -4,7 +4,7 @@
   "pattern": [
     " a ",
     "aba",
-    " c "
+    "dcd"
   ],
   "key": {
     "a": {
@@ -15,6 +15,9 @@
     },
     "c": {
       "item": "minecraft:magma_cream"
+    },
+    "d": {
+      "item": "minecraft:lava_bucket"
     }
   },
   "result": {
