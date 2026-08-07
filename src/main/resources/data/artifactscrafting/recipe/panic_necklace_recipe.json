@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": "minecraft:string",
+    "b": "minecraft:golden_carrot",
+    "c": "minecraft:redstone",
+    "d": "minecraft:golden_apple"
+  },
+  "result": {
+    "id": "artifacts:panic_necklace",
+    "count": 1
+  }
+}

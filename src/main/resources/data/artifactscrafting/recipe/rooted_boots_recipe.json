@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cac"
+  ],
+  "key": {
+    "a": "minecraft:moss_block",
+    "b": "minecraft:leather_boots",
+    "c": "#artifactscrafting:food"
+  },
+  "result": {
+    "id": "artifacts:rooted_boots",
+    "count": 1
+  }
+}
