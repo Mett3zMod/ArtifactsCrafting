@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:leather",
+    "b": "minecraft:ender_pearl",
+    "c": "#artifactscrafting:food"
+  },
+  "result": {
+    "id": "artifacts:warp_drive",
+    "count": 1
+  }
+}

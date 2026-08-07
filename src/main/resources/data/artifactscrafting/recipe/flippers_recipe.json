@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": "minecraft:lapis_lazuli",
+    "b": "minecraft:leather_boots",
+    "c": "minecraft:water_bucket"
+  },
+  "result": {
+    "id": "artifacts:flippers",
+    "count": 1
+  }
+}

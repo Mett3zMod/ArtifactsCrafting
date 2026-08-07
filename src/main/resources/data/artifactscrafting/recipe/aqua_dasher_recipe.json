@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": "minecraft:feather",
+    "b": "minecraft:lapis_lazuli",
+    "c": "minecraft:leather_boots",
+    "d": "minecraft:leather"
+  },
+  "result": {
+    "id": "artifacts:aqua_dashers",
+    "count": 1
+  }
+}

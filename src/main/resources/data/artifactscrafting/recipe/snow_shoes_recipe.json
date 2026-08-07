@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "c c"
+  ],
+  "key": {
+    "a": "minecraft:leather",
+    "b": "minecraft:leather_boots",
+    "c": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "artifacts:snowshoes",
+    "count": 1
+  }
+}

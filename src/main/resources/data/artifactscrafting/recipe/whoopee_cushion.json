@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": "minecraft:pink_wool",
+    "b": "minecraft:leather"
+  },
+  "result": {
+    "id": "artifacts:whoopee_cushion",
+    "count": 1
+  }
+}

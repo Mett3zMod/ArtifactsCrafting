@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": "minecraft:rabbit_foot",
+    "b": "minecraft:leather_boots",
+    "c": "minecraft:rabbit_hide"
+  },
+  "result": {
+    "id": "artifacts:bunny_hoppers",
+    "count": 1
+  }
+}
