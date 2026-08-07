@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "cdc",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "minecraft:stone",
+      "data": 0
+    },
+    "c": {
+      "item": "minecraft:magma_cream"
+    },
+    "d": {
+      "item": "minecraft:magma"
+    }
+  },
+  "result": {
+    "item": "artifacts:magma_stone",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bbb",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "d": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "minecraft:wool",
+      "data": 14
+    },
+    "c": {
+      "item": "minecraft:rabbit_foot"
+    }
+  },
+  "result": {
+    "item": "artifacts:shiny_red_balloon",
+    "count": 1
+  }
+}

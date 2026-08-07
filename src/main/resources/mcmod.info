@@ -1,0 +1,12 @@
+[
+{
+  "modid": "artifactscrafting",
+  "name": "Artifacts Crafting",
+  "description": "Implements crafting recipes for Artifacts mod",
+  "version": "1.0.0-1.12.2",
+  "mcversion": "1.12.2",
+  "authorList": ["Mett3z"],
+  "logoFile": "icon.png",
+  "dependencies": []
+}
+]

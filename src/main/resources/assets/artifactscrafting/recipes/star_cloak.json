@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "c c",
+    "ada",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "minecraft:wool",
+      "data": 4
+    },
+    "c": {
+      "item": "minecraft:wool",
+      "data": 10
+    },
+    "d": {
+      "item": "minecraft:leather_chestplate"
+    }
+  },
+  "result": {
+    "item": "artifacts:star_cloak",
+    "count": 1
+  }
+}
